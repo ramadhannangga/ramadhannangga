@@ -1,3 +1,3 @@
-### Najah Muhabbik
+### Ramadhan Angga
 
-![Frost's github stats](https://github-readme-stats.vercel.app/api?username=frostid&show_icons=true&theme=dark)
+![Ramadhan Angga github stats](https://github-readme-stats.vercel.app/api?username=ramadhannangga&show_icons=true&theme=dark)
