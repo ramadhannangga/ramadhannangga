@@ -1,10 +1,3 @@
 <div align="center">
-
-<a href="https://github.com/ramadhannangga/github-stats">
-  
-![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
-</a>
-
-</div>
+### Ramadhan Angga
+[![Baydream's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadhannangga&show_icons=true&theme=radical)
