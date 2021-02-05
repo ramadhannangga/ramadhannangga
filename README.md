@@ -1,3 +1,10 @@
-### Ramadhan Angga
+<div align="center">
 
-[![Baydream's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadhannangga&show_icons=true&theme=radical)
+<a href="https://github.com/ramadhannangga/github-stats">
+  
+![](https://raw.githubusercontent.com/ramadhannangga/github-stats/master/generated/overview.svg)
+![](https://github.com/ramadhannangga/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
